@@ -44,7 +44,7 @@ Comparative trend charts for 2021 vs 2022.
 
 Clear visual breakdown of high-impact accident factors.
 
-Dashboard:
+**Dashboard:**
 
 <img width="1461" height="725" alt="image" src="https://github.com/user-attachments/assets/1fd5dcfe-afbb-4cf7-8cb1-e7d52523cff9" />
 
